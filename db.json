@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "title": "wdwadadaa",
+      "desc": "dwad",
+      "id": 25
+    },
+    {
+      "title": "dwadwada",
+      "desc": "wadwadadawdwadawda",
+      "id": 37
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "firstName": "Honny",
+    "lastName": "Doe",
+    "age": 30
+  }
+}
